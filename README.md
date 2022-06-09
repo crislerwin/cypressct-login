@@ -38,6 +38,6 @@
 ## Escolha o Component Testing 
 abra o arquivo signin.cy.tsx
 
-## TO Do
+## TO DO
 - [ ] Validações no formulario, impedindo de enviar uma senha com menos de 6 caracteres e garantindo que o email segue o padrão.
 - [ ] Testar se enviando um valor diferente de um email, ou uma senha com menos que 6 caracteres irá emitir uma mensagem de e impedir que a request seja enviada se os valores não forem corretos.
