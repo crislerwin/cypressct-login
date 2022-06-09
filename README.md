@@ -1,5 +1,7 @@
 # Tela de Login Material Cy.expect()
 
+![](.github/app.gif)
+
 ## Intuíto do projeto
 - Desenvolver uma aplicação simples utilizando conceitos importantes para aplicações React.
 - Testar aplicação utilizando o Cypress CT
